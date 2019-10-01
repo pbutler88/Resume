@@ -1,7 +1,7 @@
-# hello-world
-## This is a hello world test repository
+# Resumes
 
-Hi, This is a test of Git Hub.
-The goal is to get this version on my local machine and try it out.
-
-Ok, I'm making changes on my local machine now.
+Hi, This repository contains a collection of resumes
+It contains:
+* Standard resume with no pictures
+* Long version resume optimized for keyword searches when submitted to HR systems.
+* Multiple more creative versions, images included.
